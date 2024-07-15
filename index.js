@@ -1,6 +1,6 @@
+// Arrow function to divide two numbers
 const divide = (a, b) => a / b
-divide (2000, 100)
+// Arrow function to calculate the square of a number
 const square = a => a * a
-square (2)
+// Arrow function to add two numbers
 const add = (a, b) => a + b
-add (3, 4)
